@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7af5e1-3cac-4a89-bd2a-5ec363d06dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cliff_random_agen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_show.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q_learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sarsa.py" afterDir="false" />
-    </list>
+    <list default="true" id="0d7af5e1-3cac-4a89-bd2a-5ec363d06dc1" name="Changes" comment="commit -m &quot;initial commit&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,6 +185,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729485626198</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit -m &quot;initial commit&quot;">
+      <option name="closed" value="true" />
+      <created>1729494796652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729494796652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit -m &quot;initial commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit -m &quot;initial commit&quot;" />
   </component>
 </project>
